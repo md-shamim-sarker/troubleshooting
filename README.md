@@ -28,3 +28,8 @@ Right click on blank desktop > Personalize > Lock Screen
 ```bash
 Start > Setting > Personalization > Themes > Desktop icon settings
 ```
+
+## How to desable/enable usb port
+```bash
+Run > devmgmt.msc > Universal Serial Bus Controllers
+```
